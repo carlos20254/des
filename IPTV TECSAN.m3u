@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Peru" tvg-name="LATINA" tvg-id="2", LATINA (2)
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Peru" tvg-name="WILLAX" tvg-id="3", WILLAX (3)
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Peru" tvg-name="America TV" tvg-id="4", America TV (4)
+https://live-evg4.tv360.bitel.com.pe/ff2-rq-6buNtQfcWAq3zXg/1743441999/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Peru" tvg-name="ATV" tvg-id="5", ATV (5)
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
+
+
+
+
