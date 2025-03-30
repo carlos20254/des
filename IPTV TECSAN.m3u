@@ -12,6 +12,9 @@ https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/ch
 #EXTINF:-1 tvg-logo="" group-title="Peru" tvg-name="ATV" tvg-id="5", ATV (5)
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Peru" tvg-name="America TV" tvg-id="4", America TV (1)
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
+
 
 
 
